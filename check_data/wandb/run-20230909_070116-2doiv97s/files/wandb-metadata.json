@@ -1,0 +1,33 @@
+{
+    "os": "Linux-5.10.16.3-microsoft-standard-WSL2-x86_64-with-glibc2.31",
+    "python": "3.9.18",
+    "heartbeatAt": "2023-09-09T14:01:17.352858",
+    "startedAt": "2023-09-09T14:01:16.826460",
+    "docker": null,
+    "gpu": "NVIDIA GeForce RTX 4070 Ti",
+    "gpu_count": 1,
+    "cpu_count": 16,
+    "cuda": null,
+    "args": [
+        "-s",
+        "-vv",
+        ".",
+        "--reference_artifact",
+        "exercise_14/preprocessed_data.csv:latest",
+        "--sample_artifact",
+        "preprocessed_data.csv:latest",
+        "--ks_alpha",
+        "0.05"
+    ],
+    "state": "running",
+    "program": "/home/pwirries/miniconda3/envs/mlflow-21f5cde8c59c7f0a03e7eb7a85a2c677cca956f0/bin/pytest",
+    "git": {
+        "remote": "https://github.com/pwirries/genre_classification.git",
+        "commit": "b8e52733d13c4dfc728319c50b383b0fdb3ea683"
+    },
+    "email": null,
+    "root": "/mnt/c/code/genre_classification",
+    "host": "DESKTOP-4BMQJH3",
+    "username": "pwirries",
+    "executable": "/home/pwirries/miniconda3/envs/mlflow-21f5cde8c59c7f0a03e7eb7a85a2c677cca956f0/bin/python"
+}

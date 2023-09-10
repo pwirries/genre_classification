@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/code/genre_classification/mlruns/0/6aa3aa9d72b241709831f6d6ac500d17/artifacts
+end_time: 1694270438035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6aa3aa9d72b241709831f6d6ac500d17
+run_name: luxuriant-dog-960
+run_uuid: 6aa3aa9d72b241709831f6d6ac500d17
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694269861837
+status: 4
+tags: []
+user_id: pwirries

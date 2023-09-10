@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/code/genre_classification/mlruns/0/2feaa074945f42cd8e0cdcaa9fc93e83/artifacts
+end_time: 1694269881452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 2feaa074945f42cd8e0cdcaa9fc93e83
+run_uuid: 2feaa074945f42cd8e0cdcaa9fc93e83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694269873387
+status: 3
+tags: []
+user_id: pwirries

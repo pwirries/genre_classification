@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/code/genre_classification/mlruns/0/d42e0e83553548f0b14abc6eb5610d43/artifacts
+end_time: 1694281256644
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d42e0e83553548f0b14abc6eb5610d43
+run_name: awesome-trout-784
+run_uuid: d42e0e83553548f0b14abc6eb5610d43
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694280192599
+status: 3
+tags: []
+user_id: pwirries

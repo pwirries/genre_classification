@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# pipeline runs
+mlruns/
+wandb/
+artifacts/
+
 # C extensions
 *.so
 

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/code/genre_classification/mlruns/0/635709c672544b819a047bc6916f2545/artifacts
+end_time: 1694233285223
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 635709c672544b819a047bc6916f2545
+run_name: sedate-eel-822
+run_uuid: 635709c672544b819a047bc6916f2545
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694233283393
+status: 4
+tags: []
+user_id: pwirries

@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/c/code/genre_classification/mlruns/0/095d71dbfb374a6bb34bc6b016962a24/artifacts
+end_time: 1694235222311
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 095d71dbfb374a6bb34bc6b016962a24
+run_name: whimsical-cod-43
+run_uuid: 095d71dbfb374a6bb34bc6b016962a24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694234362656
+status: 4
+tags: []
+user_id: pwirries
